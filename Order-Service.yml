@@ -24,5 +24,5 @@ management:
         include: '*'        
 razorpay:
   key:
-    id: rzp_test_m6SJuhq4RdNeRR
-    secret: XU8nmz0ouE0xhpz6eT4rd00V        
+    id: rzp_test_3uOdeDij1shQB1 
+    secret: FgyY2c4x2X5lalmnraDnw7g4       
